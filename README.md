@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potlurimounika&" alt="potlurimounika" /></p>
 https://roadmap.sh/card/wide/675cfb8becc889bb0d886629?variant=dark
+
+<a href="https://app.daily.dev/mounika12"><img src="https://api.daily.dev/devcards/v2/MXWnjQxqiNOS9sELJbNya.png?type=default&r=47f" width="356" alt="mounika's Dev Card"/></a>
