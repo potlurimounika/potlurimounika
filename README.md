@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p>
-img src="https://github.com/user-attachments/assets/e8136c29-beab-4c11-ad50-053cc62a8c71" alt="banner">
+<img src="https://github.com/user-attachments/assets/e8136c29-beab-4c11-ad50-053cc62a8c71" alt="banner">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
