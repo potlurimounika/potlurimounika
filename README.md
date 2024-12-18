@@ -1,6 +1,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-![gitbanner](https://github.com/user-attachments/assets/e8136c29-beab-4c11-ad50-053cc62a8c71)
-
+<p>
+img src="https://github.com/user-attachments/assets/e8136c29-beab-4c11-ad50-053cc62a8c71" alt="banner">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mounikapotluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounikapotluri" height="30" width="40" /></a>
